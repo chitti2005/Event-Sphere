@@ -216,13 +216,5 @@ All services run inside Docker containers.
 Built as part of Skill Lab – 6th Semester  
 Project Name: EventSphere – Campus Event Platform  
 
----
 
-## ⭐ Final Note
 
-If Docker works, this project works anywhere.
-
-**Clone → Docker Compose Up → Done 🚀**  
-No dependency issues. No system conflicts.
-
-Happy Coding! 🎯
